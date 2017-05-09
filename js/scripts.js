@@ -48,6 +48,7 @@ $(function () {
     $("#outputMovie").text(movie.name);
     $("#outputMatinee").text(newTicket.matinee);
     $("#outputPrice").text(outputPrice);
+    $("#output").show();
 
   });
 });
